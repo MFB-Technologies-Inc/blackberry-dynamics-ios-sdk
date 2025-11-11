@@ -19,23 +19,23 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BlackBerryCerticom",
-            url: "https://github.com/MFB-Technologies-Inc/blackberry-dynamics-ios-sdk/releases/download/pre-14.0.8198.22/BlackBerryCerticom.xcframework.zip",
-            checksum: "58a5c8f15d3be9a214a28107178b2a823dc18866a5befdf7d6e67d5ba9033ebf"
+            url: "https://github.com/MFB-Technologies-Inc/blackberry-dynamics-ios-sdk/releases/download/pre-14.0.8198.29/BlackBerryCerticom.xcframework.zip",
+            checksum: "28ee8a41764bae904741adb4acdb3152157f1fa98e80e114b283dab0e06af365"
         ),
         .binaryTarget(
             name: "BlackBerryCerticomSBGSE",
-            url: "https://github.com/MFB-Technologies-Inc/blackberry-dynamics-ios-sdk/releases/download/pre-14.0.8198.22/BlackBerryCerticomSBGSE.xcframework.zip",
-            checksum: "1f51a48bf620a74d5920417c555cb163a794d62cd8daec4b3933952cde35bcab"
+            url: "https://github.com/MFB-Technologies-Inc/blackberry-dynamics-ios-sdk/releases/download/pre-14.0.8198.29/BlackBerryCerticomSBGSE.xcframework.zip",
+            checksum: "a4ff6fcb8ace9d5ab10008e5ed5bbfeb51254a5c386c3ab3e060c13c0af3554e"
         ),
         .binaryTarget(
             name: "BlackBerryDynamics",
-            url: "https://github.com/MFB-Technologies-Inc/blackberry-dynamics-ios-sdk/releases/download/pre-14.0.8198.22/BlackBerryDynamics.xcframework.zip",
-            checksum: "d88478a3d3ebbbae7549796698f2d75acd168070189df4acc91b684e735d2fbe"
+            url: "https://github.com/MFB-Technologies-Inc/blackberry-dynamics-ios-sdk/releases/download/pre-14.0.8198.29/BlackBerryDynamics.xcframework.zip",
+            checksum: "15fb66280f6ff40fa092d33c917f7f2dc399c8ffb6c9f9d55843327afbedb2bc"
         ),
         .binaryTarget(
             name: "BlackBerryDynamicsAutomatedTestSupportLibrary",
-            url: "https://github.com/MFB-Technologies-Inc/blackberry-dynamics-ios-sdk/releases/download/pre-14.0.8198.22/BlackBerryDynamicsAutomatedTestSupportLibrary.xcframework.zip",
-            checksum: "e4b65e22952ec75b817ac23fd03d312461a9743220a31e6e8f985a9ccf4b5a2f"
+            url: "https://github.com/MFB-Technologies-Inc/blackberry-dynamics-ios-sdk/releases/download/pre-14.0.8198.29/BlackBerryDynamicsAutomatedTestSupportLibrary.xcframework.zip",
+            checksum: "d6594286aa5220bb35a767aff849522a18f33073cb988d65c040708e3771ed50"
         ),
     ]
 )
