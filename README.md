@@ -1,3 +1,5 @@
+⚠ Archived now that there is an official package: https://github.com/blackberry/BlackBerry-Dynamics-iOS-SDK
+
 # BlackBerry Dynamics SDK for iOS
 
 ## Resources
